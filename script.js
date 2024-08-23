@@ -6,41 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual é a principal diferença entre o vôlei de quadra e o vôlei de praia em termos de regras e ambiente de jogo? ",
+        enunciado: "Qual é a principal característica do boto cor de rosa de acordo com o folclore brasileiro? ",
         alternativas: [
             {
-                texto: "O vôlei de quadra é jogado em um ambiente fechado com seis jogadores em cada equipe e um sistema de três toques por equipe, enquanto o vôlei de praia é jogado ao ar livre com duas equipes de dois jogadores e um sistema de dois toques por equipe.",
-                afirmacao: "No vôlei de quadra, o jogo ocorre em ambientes fechados com seis jogadores em cada time e permite três toques por equipe antes de passar a bola para o time adversário. No vôlei de praia, o jogo ocorre ao ar livre com duas equipes de dois jogadores e apenas três toques são permitidos por equipe.",
+                texto: "Ele é conhecido por transformar-se em um homem encantador para seduzir mulheres.",
+                afirmacao: "No folclore, o boto cor de rosa é frequentemente descrito como um ser que se transforma em um homem atraente para seduzir mulheres, especialmente em festas à noite.",
             },
             {
-                texto: "O vôlei de praia é jogado em uma quadra coberta com seis jogadores em cada equipe,enquanto o vôlei de quadra é jogado ao ar livre com apenas dois jogadores por equipe.",
-                afirmacao: "Isso está incorreto, pois o vôlei de praia é jogado ao ar livre com apenas dois jogadores por equipe, e o vôlei de quadra é jogado em ambientes fechados com seis jogadores em cada equipe.",
+                texto: "Ele é famoso por ser um protetor das crianças que brincam perto da água.",
+                afirmacao: "Embora o boto seja uma figura importante no folclore, a ideia de proteger crianças não é uma característica central associada a ele.",
             }
         ]
     },
     {
-        enunciado: "Como o vôlei contribui para a promoção da cultura esportiva em diferentes regiões?",
+        enunciado: "Qual é a principal consequência de um encontro com o boto cor de rosa, segundo a tradição?",
         alternativas: [
             {
-                texto: "Só vôlei, como esporte coletivo, promove a integração social e cultural, oferecendo oportunidades para pessoas de diferentes origens se reunirem em torneios locais e internacionais.",
-                afirmacao: "O vôlei promove a integração social e cultural ao reunir pessoas de diferentes origens em eventos esportivos, incentivando o intercâmbio cultural e o espírito de equipe."
+                texto: "A mulher que encontra o boto pode engravidar e ter um filho com ele.",
+                afirmacao: "Segundo a lenda, uma mulher que tem um encontro com o boto pode engravidar e, às vezes, o boto desaparece depois do evento, deixando a mulher com um filho."
             },
             {
-                texto: "O vôlei tem pouco impacto na promoção da cultura esportiva, pois é um esporte que não atrai a participação de diversos grupos etários e culturais..",
-                afirmacao: "Na verdade, o vôlei tem um impacto significativo na promoção da cultura esportiva, pois é praticado por pessoas de várias idades e origens culturais em todo o mundo."
+                texto: "A pessoa que encontra o boto ganha um desejo concedido." ,
+                afirmacao: "No folclore, o boto não é conhecido por conceder desejos; seu papel é mais associado a encontros românticos e suas consequências."
             }
         ]
     },
     {
-        enunciado: " Qual é o papel dos eventos internacionais de vôlei, como os Jogos Olímpicos, na popularização do esporte globalmente?",
+        enunciado: " Qual é a origem das lendas sobre o boto cor de rosa na cultura amazônica?",
         alternativas: [
             {
-                texto: "Eventos internacionais como os Jogos Olímpicos ajudam a aumentar a visibilidade do vôlei, atraindo espectadores e patrocinadores e incentivando a prática do esporte em diferentes países.",
-                afirmacao: "Os Jogos Olímpicos e outros eventos internacionais de vôlei desempenham um papel importante em aumentar a visibilidade do esporte, promovendo-o globalmente e estimulando o interesse e a participação em vários países."
+                texto: "Elas surgiram como uma explicação para desaparecimentos e eventos misteriosos na comunidade ribeirinha.",
+                afirmacao: "As lendas do boto muitas vezes surgem como explicações para eventos misteriosos ou desaparecimentos inexplicáveis nas comunidades ribeirinhas da Amazônia."
             },
             {
-                texto: "Esses eventos têm pouco impacto na popularização do vôlei, pois o esporte é mais promovido por eventos locais e regionais.",
-                afirmacao: "Embora eventos locais e regionais também sejam importantes, eventos internacionais como os Jogos Olímpicos têm um impacto significativo na popularização do vôlei ao alcançar uma audiência global e gerar interesse internacional."
+                texto: "Elas foram criadas para ensinar crianças sobre os perigos de nadar em águas profundas.",
+                afirmacao: "Embora a lenda possa ter algum valor educativo, o foco principal das histórias do boto não é especificamente ensinar sobre os perigos de nadar, mas sim sobre encontros românticos e consequências sociais."
               
             }
         ]
